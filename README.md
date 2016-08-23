@@ -18,7 +18,7 @@ TBD
 (def slack-notifier (slack/map->SlackNotifier {:webhook-url "<insert-your-slack-webhook-url>"
                                                :ci-host     "<ci-server-host-url>"}))
 
-(notification/setup pipeline slack-notifier)
+(notifications/setup pipeline slack-notifier)
 
 ```
 
