@@ -6,7 +6,7 @@ This library is intended for notifying final build status through channels like 
 
 ##Screenshot
 
-TBD
+![image](https://cloud.githubusercontent.com/assets/919715/17907660/899e0b54-699a-11e6-9768-56e64eabff1b.png)
 
 ##Usage
 
